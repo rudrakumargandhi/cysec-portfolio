@@ -21,7 +21,7 @@ Welcome to my **Cybersecurity Portfolio** — a curated collection of my practic
 ## 🔑 Tools & Skills Highlighted
 
 - **Languages:** Python, PowerShell, Bash.
-- **Tools:** Kali Linux, Burp Suite, Nmap, OWASP ZAP, PortSwigger Academy.
+- **Tools:** Kali Linux, Burp Suite, Nmap, OWASP ZAP.
 - **Domains:** OWASP Top 10, vulnerability assessment, web app exploitation, secure coding principles.
 ---
 
