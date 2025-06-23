@@ -17,7 +17,6 @@ Welcome to my **Cybersecurity Portfolio** — a curated collection of my practic
 
 - Build a public record of my cybersecurity learning journey.
 - Showcase my practical skills in web application security, Linux fundamentals, and penetration testing.
-- Serve as evidence of my hands-on experience for internship and job opportunities.
 
 ## 🔑 Tools & Skills Highlighted
 
